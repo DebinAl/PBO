@@ -1,3 +1,6 @@
+Nama: Devin Isan Aliano
+Nim: 2105551107
+
 Apa itu inheritance?
   Inheritance pada java adalah dimana saat suatu Class (Sub Class/Child Class) mewariskan properti dan method dari Super Class nya
   suatu Sub Class dapat mengakses properti dan method dari Super Classnya, ini dapat membantu dalam mengurangi redudansi dalam kode.
