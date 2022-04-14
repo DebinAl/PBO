@@ -1,0 +1,19 @@
+Apa itu inheritance?
+  Inheritance pada java adalah dimana saat suatu Class (Sub Class/Child Class) mewariskan properti dan method dari Super Class nya
+  suatu Sub Class dapat mengakses properti dan method dari Super Classnya, ini dapat membantu dalam mengurangi redudansi dalam kode.
+
+  ada beberapa jenis inheritance pada java :
+    1. Single Inheritance: adalah ketika suatu Class menjadi Super Class dari satu Class lainnya (Sub Class) 
+       [Super Class <- Sub Class]
+    2. Multi Level Inheritance: adalah ketika suatu Class menjadi Super Class dari Class lainnya yang juga menjadi Super Class dari Class lainnya (Sub Class)
+       [Super Class <- (Sub Class/Super Class) <- Sub Class]
+    3. Hierarchical Inheritance: adalah ketika suatu Class menjadi Super Class dari dua atau lebih Class lainnya (Sub Class)
+       [Super Class: <- Sub Class(1)]
+       [             <- Sub Class(2)]
+       [             <- Sub Class(3)]
+
+Apa keuntungan dalam menggunakan inheritance?
+  1. salah satu keuntungan menggunakan inheritance adalah code reusability, artinya kita menggunakan code yang sebelumnya sudah kita buat
+     ini akan membantu untuk mengurangi redudansi pada suatu program
+  2. selain itu, inheritance membuat code kita terstruktur dengan jelas, ini akan membantu kita dan orang lain dalam memahami alur kode dalam suatu program
+  
